@@ -1,0 +1,25 @@
+[{
+	"Day": 1,
+	"Flights": [{
+		"Source": "YUL",
+		"Destination": "YYZ"
+	}, {
+		"Source": "YUL",
+		"Destination": "YYC"
+	}, {
+		"Source": "YUL",
+		"Destination": "YVR"
+	}]
+}, {
+	"Day": 2,
+	"Flights": [{
+		"Source": "YUL",
+		"Destination": "YYZ"
+	}, {
+		"Source": "YUL",
+		"Destination": "YYC"
+	}, {
+		"Source": "YUL",
+		"Destination": "YVR"
+	}]
+}]
